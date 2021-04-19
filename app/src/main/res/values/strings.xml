@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Diary_BAE</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="search_entry">Search Entry</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="addNewEntryText">What\'s on your mind</string>
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+    <string name="editEntryText">Edit your entry</string>
+</resources>
